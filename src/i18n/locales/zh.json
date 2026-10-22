@@ -960,8 +960,6 @@
     "viewCurrentReleaseNotes": "查看当前版本更新日志",
     "officialWebsite": "官方网站",
     "github": "GitHub",
-    "starPrompt": "如果 CC Switch 帮到了你，请在 GitHub 点个 Star，这对我们意义重大",
-    "starOnGithub": "去点 Star",
     "manualInstallCommands": "手动安装命令",
     "manualUninstallCommands": "手动卸载命令",
     "manualUninstallHint": "默认自动侦测各应用的运行环境，也可手动切换。请选择安装时使用的方式，再复制所需应用的命令到终端执行。完成后点击“检查更新”刷新安装状态。",
